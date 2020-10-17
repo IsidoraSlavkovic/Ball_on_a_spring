@@ -1,1 +1,1 @@
-# Ball-in-a-spring
+# Ball in a spring
